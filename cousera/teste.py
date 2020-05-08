@@ -1,4 +1,4 @@
-# Autor: Emildo Mesquita
+# Autor: Emildo Mesquita.
 i = 6
 while (i > 0):          
     i = i - 3    
